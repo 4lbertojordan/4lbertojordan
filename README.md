@@ -1,5 +1,5 @@
 # 💫 About Me:
-SRE DevOps & Architech in process at:
+SRE DevOps & architect in process at:
 DGSM for Mercedes-Benz AG
 
 
