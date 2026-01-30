@@ -19,12 +19,7 @@ I'm currently working at Mercedes-Benz Group Services Madrid as a SRE Engineer.<
 
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4lbertojordan&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4lbertojordan&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4lbertojordan&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4lbertojordan&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4lbertojordan&theme=dark&utcOffset=8)
+| | |
+| :---: | :---: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4lbertojordan&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4lbertojordan&theme=dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=4lbertojordan&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4lbertojordan&theme=dark&utcOffset=8) |
